@@ -4,9 +4,4 @@
 // $usuario = "root";
 // $clave = "root";
 // $db = "rifa_estadistica";
-
-$host = "localhost";
-$usuario = "fwweimib_pabloatarama";
-$clave = "*nBm]=YGnupD";
-$db = "fwweimib_rifa_estadistica";
  ?>
